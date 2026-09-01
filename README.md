@@ -1,9 +1,8 @@
-# No Company Coins
+# Unlock Mystery Menu
 
-No Company Coins is a mod for Donkey Kong 64: Recompiled that opens the final coin door in Helm by default, removing the requirement to obtain both company coins.
-
+Unlock Mystery Menu is a mod for Donkey Kong 64: That unlocks the mystery menu and all of its options by default
 ## Installation
-1. Download the latest `no_company_coins.nrm` from Releases.
+1. Download the latest `unlock_mystery_menu.nrm` from Releases.
 2. Put the file in your DK64 Recompiled mods folder.
    - Example (Windows): `C:\Users\<YourUser>\AppData\Local\DK64Recompiled\mods`
 3. Launch DK64 Recompiled and enable the mod from the mods menu.
@@ -48,4 +47,5 @@ The produced mod file is named `no_company_coins.nrm`.
 - `Dk64Syms/`: Symbol files used by RecompModTool.
 
 ## Credits
-See `authors` in `mod.toml` for the full contributor list included in the mod manifest.
+- Fewffwa (mod creator)
+- Ballaam (readme template)
